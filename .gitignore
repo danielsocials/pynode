@@ -1,0 +1,8 @@
+.DS_Store
+.pytest_cache/
+pyeos/__pycache__/
+*.pyc
+*.swp
+*.swo
+_nonce*
+blocks/*

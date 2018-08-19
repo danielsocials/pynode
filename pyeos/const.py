@@ -1,0 +1,7 @@
+
+VERSION = '1.0'
+
+MAX_ACCOUNT_LENGTH = 12
+
+# eos chain id
+CHAIN_ID = 'cf057bbfb72640471fd910bcb67639c22df9f92470936cddc1ade0e2f2e7dc4f'
